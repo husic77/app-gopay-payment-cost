@@ -1,0 +1,1 @@
+app-gopay-payment-cost long description
