@@ -1,1 +1,1 @@
-app-gopay-payment-cost long description
+GoPay Payment COSTs calculation

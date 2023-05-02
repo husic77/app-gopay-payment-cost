@@ -14,7 +14,7 @@
 ## config.json ##
 - *date_performed_from* - `null` a nebo ve formátu `YYYY-MM-DD`. Platby z `in.c-reporting.payments-sessions-stage` před tímto datumem se ignorují 
 - *partnership_cost_exceptions* - seznam `partnership_id`ček, kterým se krátí určitým poměrem shema fees
-- příklad konfirurace zde: https://bitbucket.org/gopayreporting/app-gopay-payment-cost/src/master/test_data/config.json
+- příklad konfirurace zde: https://github.com/gopaydata/app-gopay-payment-cost/blob/main/component_config/sample-config/config.json
 
 ChangeLog
 - 2019-10-08 - konfigurovatelnost pomocí `config.json`
